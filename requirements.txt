@@ -9,3 +9,4 @@ torch==2.2.2
 gunicorn
 sqlalchemy 
 pycountry
+groq
