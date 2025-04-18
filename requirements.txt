@@ -8,3 +8,4 @@ psycopg-binary==3.2.5
 torch==2.2.2
 gunicorn
 sqlalchemy 
+pycountry
