@@ -10,3 +10,4 @@ gunicorn
 sqlalchemy 
 pycountry
 groq
+psycopg
