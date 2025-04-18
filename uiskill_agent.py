@@ -73,7 +73,7 @@ career_agent = Agent(
 )
 
 # === Load knowledge base (first run? set recreate=True) ===
-career_agent.knowledge.load(recreate=False)
+career_agent.knowledge.load(recreate=True)
 
 # === Agent function to get recommendations ===
 """
