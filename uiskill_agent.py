@@ -24,7 +24,7 @@ knowledge_base = JSONKnowledgeBase(
     vector_db=PgVector(
         table_name="users",
         #db_url="postgresql+psycopg://ai:ai@localhost:5532/ai",
-        db_url="postgresql://user_data_p5by_user:5bxTi4bRDuF1tD4ogixlPKdm8HI5VbYZ@dpg-d017i4uuk2gs73cm6b40-a.virginia-postgres.render.com/user_data_p5by"
+        db_url="postgresql://user_data_p5by_user:5bxTi4bRDuF1tD4ogixlPKdm8HI5VbYZ@dpg-d017i4uuk2gs73cm6b40-a.virginia-postgres.render.com/user_data_p5by",
         embedder=sentence_embedder,
       
     ),
