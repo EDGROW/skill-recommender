@@ -10,3 +10,4 @@ sqlalchemy
 pycountry
 groq
 psycopg2
+hf-xet
