@@ -5,9 +5,8 @@ pgvector==0.3.6
 googlesearch-python==1.3.0
 sentence-transformers==3.4.1
 psycopg-binary==3.2.5
-#torch==2.2.2
 gunicorn
 sqlalchemy 
 pycountry
 groq
-psycopg
+psycopg2
